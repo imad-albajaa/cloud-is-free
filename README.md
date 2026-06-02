@@ -24,4 +24,4 @@ Ready to start your first project? Then head to the Projects section.
 ### [Go to Projects](projects/README.md)
 # [this is a test link](https://pages.github.com/)
 
-! [this is test image] (images/apple.jpeg ':size=300')
+! [this is test image](images/apple.jpeg ':size=300')
